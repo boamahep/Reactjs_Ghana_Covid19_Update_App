@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reactjs_Ghana_Covid19_Update_App/static/css/main.0a0650df.chunk.css",
+    "main.js": "/Reactjs_Ghana_Covid19_Update_App/static/js/main.0e4f62c5.chunk.js",
+    "main.js.map": "/Reactjs_Ghana_Covid19_Update_App/static/js/main.0e4f62c5.chunk.js.map",
+    "runtime-main.js": "/Reactjs_Ghana_Covid19_Update_App/static/js/runtime-main.fb43423c.js",
+    "runtime-main.js.map": "/Reactjs_Ghana_Covid19_Update_App/static/js/runtime-main.fb43423c.js.map",
+    "static/js/2.a7f2996d.chunk.js": "/Reactjs_Ghana_Covid19_Update_App/static/js/2.a7f2996d.chunk.js",
+    "static/js/2.a7f2996d.chunk.js.map": "/Reactjs_Ghana_Covid19_Update_App/static/js/2.a7f2996d.chunk.js.map",
+    "index.html": "/Reactjs_Ghana_Covid19_Update_App/index.html",
+    "precache-manifest.d27774e7924a209503b45e4ba9868c31.js": "/Reactjs_Ghana_Covid19_Update_App/precache-manifest.d27774e7924a209503b45e4ba9868c31.js",
+    "service-worker.js": "/Reactjs_Ghana_Covid19_Update_App/service-worker.js",
+    "static/css/main.0a0650df.chunk.css.map": "/Reactjs_Ghana_Covid19_Update_App/static/css/main.0a0650df.chunk.css.map",
+    "static/js/2.a7f2996d.chunk.js.LICENSE.txt": "/Reactjs_Ghana_Covid19_Update_App/static/js/2.a7f2996d.chunk.js.LICENSE.txt",
+    "static/media/logo.PNG": "/Reactjs_Ghana_Covid19_Update_App/static/media/logo.6c5827cc.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb43423c.js",
+    "static/js/2.a7f2996d.chunk.js",
+    "static/css/main.0a0650df.chunk.css",
+    "static/js/main.0e4f62c5.chunk.js"
+  ]
+}

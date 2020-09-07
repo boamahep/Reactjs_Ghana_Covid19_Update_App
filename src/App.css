@@ -13,12 +13,18 @@
   height: 120px;
 }
 
+.img{
+  padding-left: 50%;
+  font-size: 60px; 
+  font-weight: bold;
+  text-align: center;
+}
+
 .navbar {
  padding-left: 20px;
  font-size: 60px; 
  font-weight: bold;
  text-align: center;
- padding-top: 10px;
 }
 
 .banner {

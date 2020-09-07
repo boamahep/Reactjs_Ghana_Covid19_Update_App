@@ -4,13 +4,11 @@ import logo from '../image/logo.PNG';
 class HeaderComponent extends Component {
     render() {
         return (
-            <header className='header'>
-  <div className='navbar'>
-    <img src={logo} alt="logo" width="100px" height="100px"/><br></br>
-    GHANA COVID-19 UPDATE INFOMATION
+            <div className='header'>
+    <img className='img' src={logo} alt="logo" width="100px" height="100px" />
+    <p className='navbar'>GHANA COVID-19 UPDATE INFOMATION</p>
     </div>
-    </header>
-        );
+     );
     }
 }
 
